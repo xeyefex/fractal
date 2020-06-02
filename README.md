@@ -6,7 +6,7 @@
         alt=""
         width="110px">
   </a>
-  <h1 align="center">Fractal</h1>
+  <h1 align="center">Custom Fractal</h1>
 </p>
 
 <br />
