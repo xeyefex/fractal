@@ -9,7 +9,7 @@ sections:
   label: Components
   create: all
   match: "**/*"
-  new_doc_ext: ".twig"
+  new_doc_ext: twig
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
